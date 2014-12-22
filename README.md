@@ -35,258 +35,78 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The couragious Turke, or, Amurath the First A tragedie. Written by Thomas Goffe Master of Arts, and 
+
+1. TO THE NO LESSE HOnoured then Deserving, Sir WALTER TICHBORNE Knight.
+
+1. TO THE AVTHOR IN THAT Transcribing his Book, without his knowledge I was bound by promise to stand to his pleasure to keepe it orburne it.
+
+1. The Prologue.
+
+1. THE ARGVMENT.
+
+1. The Actors.
+
 #####Body#####
 
-1. Actus, I.
+1. THE COVRAGIOVS TVRKF, OR, AMVRATH the first.
 
-    _ Scaena, I.
+    _ Actus, I.
 
-    _ Actus, Primi, Scaena, 2.
+      * Scaena, I.
 
-    _ Scaena, 3. Actus Primi.
+      * Actus, Primi, Scaena, 2.
 
-    _ Scaena, 4. Actus, 1.
+      * Scaena, 3. Actus Primi.
 
-    _ Scaena, 5. Actus, 1.
+      * Scaena, 4. Actus, 1.
 
-    _ Scaena, I.
+      * Scaena, 5. Actus, 1.
 
-    _ Scaena 2. Actus 2.
+    _ Actus, II.
 
-    _ Scaena 3. Actus 2.
+      * Scaena, I.
 
-    _ Scaena 4. Actus 2.
+      * Scaena 2. Actus 2.
 
-    _ Scaena, 5. Actus, 2.
+      * Scaena 3. Actus 2.
 
-    _ Scaena I.
+      * Scaena 4. Actus 2.
 
-    _ Scaena, 2. Actus, 3.
+      * Scaena, 5. Actus, 2.
 
-    _ Scaena 3. Actus 3.
+    _ Actus III.
 
-    _ Scaena 4. Actus 3.
+      * Scaena I.
 
-    _ Scaena 5. Actus 3.
+      * Scaena, 2. Actus, 3.
 
-    _ Scaena 6. Actus 3.
+      * Scaena 3. Actus 3.
 
-    _ Scaena I.
+      * Scaena 4. Actus 3.
 
-    _ Scaena 2. Actus 4.
+      * Scaena 5. Actus 3.
 
-    _ Scaena 3. Actus 4.
+      * Scaena 6. Actus 3.
 
-    _ Scaena 4. Actus 4.
+    _ Actus IIII.
 
-    _ Scaena I.
+      * Scaena I.
 
-    _ Scaena 2. Actus.
+      * Scaena 2. Actus 4.
 
-    _ Scaena 3. Actus 5.
+      * Scaena 3. Actus 4.
 
-    _ Scaena 4. Actus 5.
+      * Scaena 4. Actus 4.
 
-1. Actus, II.
+    _ Actus V.
 
-    _ Scaena, I.
+      * Scaena I.
 
-    _ Actus, Primi, Scaena, 2.
+      * Scaena 2. Actus.
 
-    _ Scaena, 3. Actus Primi.
+      * Scaena 3. Actus 5.
 
-    _ Scaena, 4. Actus, 1.
-
-    _ Scaena, 5. Actus, 1.
-
-    _ Scaena, I.
-
-    _ Scaena 2. Actus 2.
-
-    _ Scaena 3. Actus 2.
-
-    _ Scaena 4. Actus 2.
-
-    _ Scaena, 5. Actus, 2.
-
-    _ Scaena I.
-
-    _ Scaena, 2. Actus, 3.
-
-    _ Scaena 3. Actus 3.
-
-    _ Scaena 4. Actus 3.
-
-    _ Scaena 5. Actus 3.
-
-    _ Scaena 6. Actus 3.
-
-    _ Scaena I.
-
-    _ Scaena 2. Actus 4.
-
-    _ Scaena 3. Actus 4.
-
-    _ Scaena 4. Actus 4.
-
-    _ Scaena I.
-
-    _ Scaena 2. Actus.
-
-    _ Scaena 3. Actus 5.
-
-    _ Scaena 4. Actus 5.
-
-1. Actus III.
-
-    _ Scaena, I.
-
-    _ Actus, Primi, Scaena, 2.
-
-    _ Scaena, 3. Actus Primi.
-
-    _ Scaena, 4. Actus, 1.
-
-    _ Scaena, 5. Actus, 1.
-
-    _ Scaena, I.
-
-    _ Scaena 2. Actus 2.
-
-    _ Scaena 3. Actus 2.
-
-    _ Scaena 4. Actus 2.
-
-    _ Scaena, 5. Actus, 2.
-
-    _ Scaena I.
-
-    _ Scaena, 2. Actus, 3.
-
-    _ Scaena 3. Actus 3.
-
-    _ Scaena 4. Actus 3.
-
-    _ Scaena 5. Actus 3.
-
-    _ Scaena 6. Actus 3.
-
-    _ Scaena I.
-
-    _ Scaena 2. Actus 4.
-
-    _ Scaena 3. Actus 4.
-
-    _ Scaena 4. Actus 4.
-
-    _ Scaena I.
-
-    _ Scaena 2. Actus.
-
-    _ Scaena 3. Actus 5.
-
-    _ Scaena 4. Actus 5.
-
-1. Actus IIII.
-
-    _ Scaena, I.
-
-    _ Actus, Primi, Scaena, 2.
-
-    _ Scaena, 3. Actus Primi.
-
-    _ Scaena, 4. Actus, 1.
-
-    _ Scaena, 5. Actus, 1.
-
-    _ Scaena, I.
-
-    _ Scaena 2. Actus 2.
-
-    _ Scaena 3. Actus 2.
-
-    _ Scaena 4. Actus 2.
-
-    _ Scaena, 5. Actus, 2.
-
-    _ Scaena I.
-
-    _ Scaena, 2. Actus, 3.
-
-    _ Scaena 3. Actus 3.
-
-    _ Scaena 4. Actus 3.
-
-    _ Scaena 5. Actus 3.
-
-    _ Scaena 6. Actus 3.
-
-    _ Scaena I.
-
-    _ Scaena 2. Actus 4.
-
-    _ Scaena 3. Actus 4.
-
-    _ Scaena 4. Actus 4.
-
-    _ Scaena I.
-
-    _ Scaena 2. Actus.
-
-    _ Scaena 3. Actus 5.
-
-    _ Scaena 4. Actus 5.
-
-1. Actus V.
-
-    _ Scaena, I.
-
-    _ Actus, Primi, Scaena, 2.
-
-    _ Scaena, 3. Actus Primi.
-
-    _ Scaena, 4. Actus, 1.
-
-    _ Scaena, 5. Actus, 1.
-
-    _ Scaena, I.
-
-    _ Scaena 2. Actus 2.
-
-    _ Scaena 3. Actus 2.
-
-    _ Scaena 4. Actus 2.
-
-    _ Scaena, 5. Actus, 2.
-
-    _ Scaena I.
-
-    _ Scaena, 2. Actus, 3.
-
-    _ Scaena 3. Actus 3.
-
-    _ Scaena 4. Actus 3.
-
-    _ Scaena 5. Actus 3.
-
-    _ Scaena 6. Actus 3.
-
-    _ Scaena I.
-
-    _ Scaena 2. Actus 4.
-
-    _ Scaena 3. Actus 4.
-
-    _ Scaena 4. Actus 4.
-
-    _ Scaena I.
-
-    _ Scaena 2. Actus.
-
-    _ Scaena 3. Actus 5.
-
-    _ Scaena 4. Actus 5.
+      * Scaena 4. Actus 5.
 
 **Types of content**
 
